@@ -20,6 +20,8 @@ paragraf 3
 # Linki
 
 > [Link do paragrafów](#id1) 
+
 > [Link do tabeli](#id2)
+
 > [Link do obrazka](#id3)
 
