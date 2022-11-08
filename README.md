@@ -18,7 +18,8 @@ paragraf 3
 ![piesek.jpg](piesek.jpg)
 
 # Linki
-> [Link do paragrafów](#id1)
+
+> [Link do paragrafów](#id1) 
 > [Link do tabeli](#id2)
 > [Link do obrazka](#id3)
 
