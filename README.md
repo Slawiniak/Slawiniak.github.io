@@ -15,7 +15,7 @@ paragraf 3
 
 # Obrazek {#id3}
 
-![piesek.jpg](piesek.jpg)
+![piesek.jpg](piesek.jpg) :)
 
 # Linki
 
